@@ -138,3 +138,14 @@ h1,h2,h3 {
   background-color: #525c66 !important;
   color: #FF0000 !important;
 }
+
+.container-fluid img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.scaled-image {
+  height: auto;
+  max-width: 50%;
+}
