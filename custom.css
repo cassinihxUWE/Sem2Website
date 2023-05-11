@@ -105,3 +105,28 @@ h1,h2,h3 {
   --bs-text-opacity: 1;
   color: #525c66 !important;
 }
+
+.fc-toolbar {
+  background-color: #212529;
+  color: #FFFFFF;
+}
+
+.fc th, .fc td, .fc-axis {
+  background-color: #212529;
+  color: #FFFFFF;
+}
+
+.fc-today {
+  background-color: #212529;
+  color: #212529;
+}
+
+.fc-unthemed, .fc-today {
+  background: #212529;
+  color: #212529;
+}
+
+.highlight {
+  background-color: #525c66 !important;
+  color: #FF0000 !important;
+}
