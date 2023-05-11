@@ -1,3 +1,7 @@
+  .html{
+    padding: 0px;
+  }
+  
   .form-control-dark {
     border-color: var(--bs-gray);
   }
